@@ -1,0 +1,13 @@
+@import url(http://fonts.googleapis.com/earlyaccess/nanumgothic.css);
+
+div.ccl {
+    font-size: 0.6em;
+    line-height: 1.7em;
+    font-family: "nanum";
+    color: silver;
+    text-align: center;
+}
+
+section.post-content {
+    font-family: "nadumgothic";
+}

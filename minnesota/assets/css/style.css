@@ -8,6 +8,6 @@ div.ccl {
     text-align: center;
 }
 
-section.post-content {
+section.post-content, main.content {
     font-family: "nadumgothic";
 }
